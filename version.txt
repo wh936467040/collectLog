@@ -1,0 +1,7 @@
+version:exe2_Log_2.0.0_beta
+#######################################
+version:exe2_Log_2.0.0_beta
+update : refactor the old version ,and use regex to 
+	 filter imporant log
+author £ºwanghao200911@163.com
+date   : 2018-01-11	
